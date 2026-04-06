@@ -1,0 +1,1 @@
+-- Placeholder migration: guard coins balance function.

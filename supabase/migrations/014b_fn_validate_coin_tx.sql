@@ -1,0 +1,1 @@
+-- Placeholder migration: validate coin transaction function.

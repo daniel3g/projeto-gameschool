@@ -1,0 +1,1 @@
+-- Placeholder migration: class_teachers.

@@ -1,0 +1,1 @@
+-- Placeholder seed: minimum platform seed.

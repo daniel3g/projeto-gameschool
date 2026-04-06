@@ -1,0 +1,1 @@
+-- Placeholder migration: pre_registered_users.
